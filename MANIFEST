@@ -1,0 +1,13 @@
+setup.cfg
+setup.py
+mgprint\__init__.py
+mgprint\mgprint.py
+readme.md
+LICENCE
+docs\img\1-min.png
+docs\img\2-min.png
+docs\img\3-min.png
+docs\img\d1-min.png
+docs\img\d2-min.png
+docs\img\d3-min.png
+docs\img\demo-min.png
